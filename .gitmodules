@@ -1,0 +1,12 @@
+[submodule "common_lib"]
+	path = common_lib
+	url = https://github.com/sei-jmattson/common_lib.git
+[submodule "object_builders_lib"]
+	path = object_builders_lib
+	url = https://github.com/sei-jmattson/object_builders_lib.git
+[submodule "roi_filters_lib"]
+	path = roi_filters_lib
+	url = https://github.com/sei-jmattson/roi_filters_lib.git
+[submodule "segmenters_lib"]
+	path = segmenters_lib
+	url = https://github.com/sei-jmattson/segmenters_lib.git
