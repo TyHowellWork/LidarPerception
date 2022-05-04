@@ -1,12 +1,16 @@
 [submodule "common_lib"]
 	path = common_lib
-	url = https://github.com/sei-jmattson/common_lib.git
+	url = https://github.com/tyhowellwork/common_lib.git
+	branch = noetic
 [submodule "object_builders_lib"]
 	path = object_builders_lib
-	url = https://github.com/sei-jmattson/object_builders_lib.git
+	url = https://github.com/tyhowellwork/object_builders_lib.git
+	branch = noetic
 [submodule "roi_filters_lib"]
 	path = roi_filters_lib
-	url = https://github.com/sei-jmattson/roi_filters_lib.git
+	url = https://github.com/tyhowellwork/roi_filters_lib.git
+	branch = noetic
 [submodule "segmenters_lib"]
 	path = segmenters_lib
-	url = https://github.com/sei-jmattson/segmenters_lib.git
+	url = https://github.com/tyhowellwork/segmenters_lib.git
+	branch = noetic
